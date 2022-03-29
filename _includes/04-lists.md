@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+List of animals
+- 🐱
+- 🐶
+- 🐴
+- 🦁
+- 🐯
+
+And my favourite food
+1. Chocolate
+2. Vanilla
